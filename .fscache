@@ -1,0 +1,15 @@
+::res://::1441284317
+icon.png::ImageTexture::1440424519::
+::res://Cenas::1441293664
+Cena1.scn::PackedScene::1441293664::
+::res://Scripts::1441300190
+Andar.gd::GDScript::1441300190::
+global.gd::GDScript::1423920896::
+input_states.gd::GDScript::1441300190::
+player.gd::GDScript::1423920896::
+touch_screen_button.gd::GDScript::1423920896::
+::res://Sprites::1440508023
+47febfd79d3f18e3a61c01aa806db753.jpg::ImageTexture::1440435563::
+TimSpriteSheet.png::ImageTexture::1440166813::
+ground.png::ImageTexture::1440507309::
+oorjG.png::ImageTexture::1440508023::
